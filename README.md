@@ -54,21 +54,21 @@ Blinkit-Analysis-Project/
 ```
 
 ## How to Use
-- 1. Clone the repository:
-git clone https://github.com/Priyanxxhiiii/Blinkit-Analysis.git
-- 2. Open sql/SQLQuery.sql → Run SQL queries in MS SQL Server.
-- 3. Open notebooks/Blinkit Analysis in Python.ipynb → Run Python analysis.
-- 4. Open powerbi/BlinkIT Dashboard.pbix → Explore the interactive dashboard.
-- 5. Open excel/BlinkIT Grocery Data.xlsx → Check Excel dashboard.
+- Clone the repository:
+```git clone https://github.com/Priyanxxhiiii/Blinkit-Analysis.git```
+- Open sql/SQLQuery.sql → Run SQL queries in MS SQL Server.
+- Open notebooks/Blinkit Analysis in Python.ipynb → Run Python analysis.
+- Open powerbi/BlinkIT Dashboard.pbix → Explore the interactive dashboard.
+- Open excel/BlinkIT Grocery Data.xlsx → Check Excel dashboard.
 
 ## Future Improvements
 - Automate pipeline (SQL → Python → Power BI)
 - Add predictive modeling (sales forecasting, demand prediction)
 - Integrate with real-time APIs for live dashboarding
 
-## 🔹 Author
+## Author
 👩‍💻 Priyanshi Shukla
 🔗 [My LinkedIn](https://www.linkedin.com/in/priyanshi-shukla)
 📧 [Email Me](mailto:priyanshishukla250604@gmail.com)
 
-##### ✨ This project demonstrates an end-to-end data analysis pipeline with SQL, Python, Power BI, and Excel for business insights.
+✨ This project demonstrates an end-to-end data analysis pipeline with SQL, Python, Power BI, and Excel for business insights.
