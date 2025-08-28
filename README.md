@@ -68,7 +68,7 @@ Blinkit-Analysis-Project/
 
 ## Author
 👩‍💻 Priyanshi Shukla
-🔗 [My LinkedIn](https://www.linkedin.com/in/priyanshi-shukla)
+🔗 [My LinkedIn](https://www.linkedin.com/in/priyanshi-shukla-a6699b24a)
 📧 [Email Me](mailto:priyanshishukla250604@gmail.com)
 
 ✨ This project demonstrates an end-to-end data analysis pipeline with SQL, Python, Power BI, and Excel for business insights.
