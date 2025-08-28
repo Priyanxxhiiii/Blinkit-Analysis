@@ -1,17 +1,16 @@
 # 📊 Blinkit Sales Analysis Project
-🔹 Project Overview
 
+## Project Overview
 This project analyzes **Blinkit’s sales performance, customer satisfaction, and inventory distribution** using **SQL Server, Python, Power BI, and Excel**.
 The objective is to derive key insights and optimization opportunities with the help of **KPIs, SQL queries, and interactive dashboards**.
 
-## 🔹 Business Requirements & KPIs
-
+## Business Requirements & KPIs
 - Total Sales – Overall revenue generated
 - Average Sales – Average revenue per sale
 - Number of Items – Count of items sold
 - Average Rating – Customer satisfaction score
 
-## 🔹 Granular Analysis
+## Granular Analysis
 - Total Sales by Fat Content – Impact of fat content on sales
 - Total Sales by Item Type – Performance of different item categories
 - Sales by Outlet & Fat Content – Comparison of fat content across outlets
@@ -20,30 +19,28 @@ The objective is to derive key insights and optimization opportunities with the 
 - Sales by Outlet Location – Geographic sales distribution
 - All KPIs by Outlet Type – Comprehensive performance breakdown
 
-## 🔹 Tools & Technologies
+## Tools & Technologies
 - MS SQL Server → Data cleaning & queries
 - Python (Pandas, Matplotlib, Seaborn) → Exploratory Data Analysis (EDA)
 - Power BI → Interactive dashboard
 - Excel → KPI visualization & dashboarding
 
-## 🔹 Dashboard Preview
+## Dashboard Preview
 📌 Power BI Dashboard
 <p align="center"> <img src="powerbi/blinkit powerbi.png" width="700"/> </p>
 📌 Excel Dashboard
 <p align="center"> <img src="excel/blinkit excel.png" width="700"/> </p>
 
-## 🔹 Insights & Findings
-
+## Insights & Findings
 - Low Fat vs Regular items showed different sales performance
 - Supermarket outlets generated higher sales than smaller stores
 - Large outlet sizes correlated with higher revenue
 - Sales distribution varied significantly across locations
 
-  ## 🚀 Live Demo of Power BI Dashboard
-
+## 🚀 Live Demo of Power BI Dashboard
 👉 https://app.powerbi.com/links/NXZr051Hj6?ctid=be97dfd8-31a5-41c4-8019-51ca7013b51c&pbi_source=linkShare
 
-## 🔹 Folder Structure
+## Folder Structure
 ```
 Blinkit-Analysis-Project/
 │
@@ -56,21 +53,15 @@ Blinkit-Analysis-Project/
 └── README.md             # Project documentation
 ```
 
-## 🔹 How to Use
-
-### Clone the repository:
+## How to Use
+- 1. Clone the repository:
 git clone https://github.com/Priyanxxhiiii/Blinkit-Analysis.git
+- 2. Open sql/SQLQuery.sql → Run SQL queries in MS SQL Server.
+- 3. Open notebooks/Blinkit Analysis in Python.ipynb → Run Python analysis.
+- 4. Open powerbi/BlinkIT Dashboard.pbix → Explore the interactive dashboard.
+- 5. Open excel/BlinkIT Grocery Data.xlsx → Check Excel dashboard.
 
-### Open sql/SQLQuery.sql → Run SQL queries in MS SQL Server.
-
-### Open notebooks/Blinkit Analysis in Python.ipynb → Run Python analysis.
-
-### Open powerbi/BlinkIT Dashboard.pbix → Explore the interactive dashboard.
-
-### Open excel/BlinkIT Grocery Data.xlsx → Check Excel dashboard.
-
-## 🔹 Future Improvements
-
+## Future Improvements
 - Automate pipeline (SQL → Python → Power BI)
 - Add predictive modeling (sales forecasting, demand prediction)
 - Integrate with real-time APIs for live dashboarding
@@ -80,4 +71,4 @@ git clone https://github.com/Priyanxxhiiii/Blinkit-Analysis.git
 🔗 [My LinkedIn](https://www.linkedin.com/in/priyanshi-shukla)
 📧 [Email Me](mailto:priyanshishukla250604@gmail.com)
 
-✨ This project demonstrates an end-to-end data analysis pipeline with SQL, Python, Power BI, and Excel for business insights.
+##### ✨ This project demonstrates an end-to-end data analysis pipeline with SQL, Python, Power BI, and Excel for business insights.
